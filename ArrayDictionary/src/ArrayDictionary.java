@@ -42,7 +42,7 @@ public class ArrayDictionary<E,T> {
             return values.remove(index);
         }
         // If key is not found, prints a warning message and returns null
-        System.out.println("Could not remove key \"" + key + "\": Dictionary will have less than 0 keys");
+        System.out.println("Could not remove key \"" + key + "\"");
         return null;
     }
 
