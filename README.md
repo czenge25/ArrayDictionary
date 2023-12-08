@@ -1,6 +1,6 @@
 # ArrayDictionary
 
-This is a simple implementation of a dictionary class in Java using two ArrayLists to store keys and values. The class provides basic dictionary functionalities such as adding key-value pairs, retrieving values by key, removing key-value pairs, checking for key existence, and more.
+This is a simple implementation of a dictionary class in Java using two ArrayLists to store keys and values. The class provides basic dictionary functionalities such as adding key-value pairs, retrieving values by key, removing key-value pairs, and checking for key existence.
 
 **Class Declaration**
 
